@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, primegully here 👋
 
-<!--
-**primegully/primegully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 💬 Ask me about Kubernetes
+- 🤔 Thinking about developer tooling
+- 🛠️ Tinkering with side projects on weekends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=primegully&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=highcontrast" alt="primegully GitHub stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=primegully&hide_border=true&theme=highcontrast" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Terraform-7aa2f7?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Bash-7aa2f7?style=for-the-badge&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Linux-7aa2f7?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Kubernetes-7aa2f7?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logoColor=white" alt="Docker" />
